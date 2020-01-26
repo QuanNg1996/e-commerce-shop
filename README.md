@@ -12,6 +12,6 @@ This app was deployed on the heroku cloud
 * Node.js
 * HTML
 
-### Live Website
+## Live Website
 
 https://e-commerce-shop.herokuapp.com/
